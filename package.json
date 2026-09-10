@@ -1,0 +1,15 @@
+{
+  "name": "eaglercraft-1-21-11-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependency-free supervisor for a Velocity Eaglercraft bridge to a GDLauncher Minecraft backend",
+  "main": "Server.js",
+  "scripts": {
+    "setup": "node Bootstrap.js",
+    "start": "node Server.js",
+    "check": "node --check Server.js && node --check Bootstrap.js"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

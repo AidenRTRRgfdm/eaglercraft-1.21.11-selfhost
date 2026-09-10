@@ -1,0 +1,29 @@
+{
+  "retrieved": "2026-09-09",
+  "artifacts": [
+    {
+      "file": "velocity.jar",
+      "source": "https://fill-data.papermc.io/v1/objects/b4e3164df5377346854dc6cb9e6a78022b1946ff69e89676313f5f6f1c6f0fb3/velocity-3.5.1-615.jar",
+      "sha256": "b4e3164df5377346854dc6cb9e6a78022b1946ff69e89676313f5f6f1c6f0fb3",
+      "bytes": 18932366
+    },
+    {
+      "file": "plugins/EaglerXServer.jar",
+      "source": "https://github.com/lax1dude/eaglerxserver/releases/download/v1.1.1/EaglerXServer.jar",
+      "sha256": "468cb07eb7ca466b21b439be75156d3d01579327f4c6dae5b67d471137a64208",
+      "bytes": 8787134
+    },
+    {
+      "file": "plugins/ViaVersion-5.11.0.jar",
+      "source": "https://github.com/ViaVersion/ViaVersion/releases/download/5.11.0/ViaVersion-5.11.0.jar",
+      "sha256": "18d19e90fc9467d68128c076630ae8700449c901402a3ef421837ce006bc8cae",
+      "bytes": 6329808
+    },
+    {
+      "file": "plugins/ViaBackwards-5.11.0.jar",
+      "source": "https://github.com/ViaVersion/ViaBackwards/releases/download/5.11.0/ViaBackwards-5.11.0.jar",
+      "sha256": "b21983d561e3f92df257683f0133ab6c68ec68175e8acfd82c6231723bf83587",
+      "bytes": 1379038
+    }
+  ]
+}
